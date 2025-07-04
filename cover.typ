@@ -49,7 +49,7 @@
 
   body
 
-  text("\n\n\n\n")
+  text("\n\n")
   text("Sincerely,\n")
   text(author)
 }
