@@ -4,7 +4,7 @@
   author: "Author",
   linkedin: "hello",
   email: "hello@example.com",
-  phone: "+44 7873362583",
+  phone: "+441234567890",
   skills: ("Go", "Python", "C++"),
   github: "github.com/username",
   website: "example.com",
